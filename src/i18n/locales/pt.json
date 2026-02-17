@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "skills": "Habilidades",
+    "experience": "Experiência",
+    "contact": "Contato"
+  },
+
+  "hero": {
+    "role": "Desenvolvedor Frontend",
+    "location": "Blumenau/SC, Brasil"
+  },
+
+  "links": {
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+
+  "about": {
+    "title": "Sobre Mim",
+    "p1": "Sou desenvolvedor frontend em formação, cursando Análise e Desenvolvimento de Sistemas. Tenho experiência prática na criação de interfaces modernas e responsivas utilizando HTML, CSS, JavaScript, Vue, React, Next e Angular.",
+    "p2": "Também trabalho com UI/UX Design, criando protótipos no Figma e transformando ideias em soluções funcionais e organizadas.",
+    "p3": "Busco oportunidades para crescer profissionalmente e contribuir com projetos reais."
+  },
+
+  "skills": {
+    "title": "Habilidades",
+    "frontend": "Frontend",
+    "tools": "Ferramentas",
+    "others": "Outros"
+  },
+
+  "experience": {
+    "title": "Experiência Profissional",
+    "job": "Desenvolvedor Frontend — Storm",
+    "period": "Maio 2022 — Agosto 2023",
+    "p1": "Atuei no desenvolvimento de interfaces web com foco em usabilidade, responsividade e performance.",
+    "p2": "Criei e mantive sites utilizando WordPress e Angular.",
+    "p3": "Participei do design de interfaces utilizando Figma e Photoshop."
+  },
+
+  "projects": {
+    "title": "Projetos",
+    "button": "Ver projeto",
+  "consultoria": {
+    "description": "Landing page institucional de uma empresa fictícia de consultoria. O site apresenta serviços, métricas e contato, com foco em modernização de processos, organização e estratégia para ajudar negócios a crescerem."
+  },
+  "petcare_hub": {
+  "description": "Aplicação web para gerenciamento de informações de animais de estimação. Permite cadastrar pets, visualizar dados detalhados como espécie, raça e responsável, além de organizar cuidados básicos. Possui funcionalidades como visualização de perfil, navegação entre páginas e interface focada na centralização das informações dos pets."
+  },
+  "supermercado": {
+  "description": "Aplicação web simples de lista de compras de supermercado. Permite criar estabelecimentos e, dentro deles, múltiplas listas de compras. Os itens podem receber nome e categoria, além de contar com funcionalidades básicas como edição e exclusão."
+  },
+    "healix": {
+      "description": "Protótipo de aplicativo voltado para a área da saúde desenvolvido como atividade acadêmica. O sistema possui agenda de medicamentos e notificações, com o objetivo de auxiliar usuários na organização de tratamentos e rotinas de cuidado."
+  }
+  },
+
+"contact": {
+  "title": "Contato",
+  "text": "Interessado em trabalhar comigo ou tirar alguma dúvida? Fique à vontade para entrar em contato!",
+  "email": "Email",
+  "whatsapp": "WhatsApp",
+  "linkedin": "LinkedIn",
+  "cv": "Baixar CV"
+}
+
+}

@@ -1,0 +1,53 @@
+/* ===== RESET GLOBAL ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Faz o site ocupar a tela inteira */
+html, body, #root {
+  height: 100%;
+  width: 100%;
+}
+
+/* Fundo principal e tipografia */
+body {
+  background-color: #020617; /* mesmo fundo do Hero */
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+
+  /* melhora a renderização de texto */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Remove estilo padrão de links */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Imagens responsivas */
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Listas sem bolinha */
+ul, ol {
+  list-style: none;
+}
+
+/* Botões sem estilo estranho do navegador */
+button {
+  font-family: inherit;
+  border: none;
+  background: none;
+}
+
+/* Scroll suave para navegação */
+html {
+  scroll-behavior: smooth;
+}
+

@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "role": "Frontend Developer",
+    "location": "Blumenau/SC, Brazil"
+  },
+
+  "links": {
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+
+  "about": {
+    "title": "About Me",
+    "p1": "I am a frontend developer in training, studying Systems Analysis and Development. I have practical experience building modern and responsive interfaces using HTML, CSS, JavaScript, Vue, React, Next and Angular.",
+    "p2": "I also work with UI/UX Design, creating prototypes in Figma and turning ideas into functional and organized solutions.",
+    "p3": "I am looking for opportunities to grow professionally and contribute to real projects."
+  },
+
+  "skills": {
+    "title": "Skills",
+    "frontend": "Frontend",
+    "tools": "Tools",
+    "others": "Others"
+  },
+
+  "experience": {
+    "title": "Professional Experience",
+    "job": "Frontend Developer — Storm",
+    "period": "May 2022 — August 2023",
+    "p1": "Worked on web interface development focusing on usability, responsiveness and performance.",
+    "p2": "Created and maintained websites using WordPress and Angular.",
+    "p3": "Participated in interface design using Figma and Photoshop."
+  },
+
+  "projects": {
+    "title": "Projects",
+    "button": "View project",
+  
+  "consultoria": {
+  "description": "Institutional landing page for a fictional consulting company. The website showcases services, metrics and contact, focused on process modernization, organization and strategy to help businesses grow."
+  },
+
+  "petcare_hub": {
+  "description": "Web application for managing pet information. Allows registering pets and viewing detailed data such as species, breed, and owner, as well as organizing basic care information. Includes profile visualization, page navigation, and an interface focused on centralizing pet data."
+  },
+  
+  "supermercado": {
+  "description": "Simple web application for a supermarket shopping list. It allows users to create stores and, within them, multiple shopping lists. Items can have a name and category, with basic features such as editing and deleting."
+  },
+
+    "healix": {
+      "description": "Health care application prototype developed as an academic activity. The system includes a medication schedule and notifications to help users manage treatments and daily care routines."
+    }
+  },
+
+"contact": {
+  "title": "Contact",
+  "text": "Interested in working with me or have any questions? Feel free to contact me!",
+  "email": "Email",
+  "whatsapp": "WhatsApp",
+  "linkedin": "LinkedIn",
+  "cv": "Download CV"
+}
+
+}
