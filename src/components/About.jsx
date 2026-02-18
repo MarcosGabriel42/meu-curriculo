@@ -1,4 +1,3 @@
-import "./about.css";
 import profile from "../assets/perfil.png";
 import { useTranslation } from "react-i18next";
 
